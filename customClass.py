@@ -4,11 +4,10 @@
 
 #pygame module needed for diplay and time module for demo purposes
 import pygame
-import time
 #AdventCalendar class
 class AdventCalendar:
     #Class variable
-    _days = 25
+    _total_days = 25
     #init which takes current day and file path where assets are stored
     def __init__(self, day = 1, assets = 'assets'):
         self._assets = assets
@@ -58,7 +57,7 @@ class AdventCalendar:
     def update_day(self):
         self._day = self._day + 1 
 
-        
+#main containing demo program
 def main():
         print("Hello and welcome to the Advent calendar demo")
         print("This demo will walk you through what the AdventCalendar class does")
