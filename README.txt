@@ -46,6 +46,7 @@ Description: The demo program mainly just goes over the current fuctionality of 
 Instructions: IMPORTANT! Before running the demo program make sure that you have python 3.9 installed and working. Also make sure that 
 	      pygame is installed. This can be done by running the command:python3 -m pip install -U pygame --user
 	      If you want to test to make sure it is installed run the command:python3 -m pygame.examples.aliens
+	      Please make sure the assets folder is located in the same directory as the python file or else there might be errors
 	      If everything is installed correctly just simply run the class file in an interpretor either by opening it with python 3.9
 	      or by running the Terminal command in the directory where it is saved:python3 customClass.py
 
