@@ -1,3 +1,5 @@
+https://github.com/DagamerNyantic/adventCalendar
+
 Class Description
 The AdventCalendar class is a very simple and basic class for making a virtual advent calendars. It mainly serves as a skeleton 
 for others trying to make virtual advent calendars. Feel free to add on to it as it is lacking a lot of fuctionality currently and
@@ -44,7 +46,6 @@ Description: The demo program mainly just goes over the current fuctionality of 
 Instructions: IMPORTANT! Before running the demo program make sure that you have python 3.9 installed and working. Also make sure that 
 	      pygame is installed. This can be done by running the command:python3 -m pip install -U pygame --user
 	      If you want to test to make sure it is installed run the command:python3 -m pygame.examples.aliens
-	      Finally please make sure that the assets folder is stored in the same directory as the program or else errors might occur
 	      If everything is installed correctly just simply run the class file in an interpretor either by opening it with python 3.9
 	      or by running the Terminal command in the directory where it is saved:python3 customClass.py
 
